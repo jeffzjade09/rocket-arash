@@ -6,7 +6,7 @@
 * Requires PHP: 7.3
 * Author: Jeff
 * GitHub Plugin URI: https://github.com/jeffzjade09/rocket-arash
-* GitHub Branch: main  // or whichever branch you want to track
+* GitHub Branch: main
 * Licence: Custom built not totally Licensed
 */
 
